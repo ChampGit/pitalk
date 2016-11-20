@@ -1,3 +1,3 @@
 
-void delay(int milliseconds); xx
+void delay(int milliseconds); void foo(void); 
 
